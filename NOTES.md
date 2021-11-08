@@ -22,7 +22,6 @@ $ docker push XXXXXXXX.dkr.ecr.us-east-1.amazonaws.com/rearc/quest:latest
 $ tree
 .
 └── ops
-    ├── README.md
     └── terraform
         ├── aws
         │   ├── eks.tf
